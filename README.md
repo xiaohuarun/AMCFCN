@@ -28,3 +28,7 @@ For example: `python train.py -mnist`
 
 # Results
 ![results](https://github.com/xiaohuarun/AMCFCN/blob/main/img/Result.PNG)
+
+# Note 
+
+Note: the datatool.py can automatically process the raw data like MNIST, FashionMNIST, COIL-20, and COIL-100.

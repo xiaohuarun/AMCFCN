@@ -1,5 +1,6 @@
 # AMCFCN
 
+This paper has been published in Peerj Computer Science.
 
 # Abstract
 
@@ -24,3 +25,6 @@ Note: Before you run the program firstly, you should run `datatool/load_dataset`
 You could quickly run our experiments by: `python train.py -c [config name]`.
 
 For example: `python train.py -mnist`
+
+# Results
+![results](https://github.com/xiaohuarun/AMCFCN/blob/main/img/Result.PNG)

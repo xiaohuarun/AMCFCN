@@ -24,7 +24,7 @@ Note: Before you run the program firstly, you should run `datatool/load_dataset`
 
 You could quickly run our experiments by: `python train.py -c [config name]`.
 
-For example: `python train.py -mnist`
+For example: `python train.py -c emnist`
 
 # Results
 ![results](https://github.com/xiaohuarun/AMCFCN/blob/main/img/Result.PNG)
@@ -33,4 +33,4 @@ For example: `python train.py -mnist`
 
 # Note 
 
-Note: the datatool.py can automatically process the raw data like MNIST, FashionMNIST, COIL-20, and COIL-100.
+Note: the datatool.py can automatically process the raw data like E-MNIST, FashionMNIST, COIL-20, and COIL-100.

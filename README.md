@@ -7,7 +7,7 @@ Advances in deep learning have propelled the evolution of multi-view clustering 
 
 # Architecture
 
-![model](https://github.com/xiaohuarun/AMCFCN/img/model.jpg](https://github.com/xiaohuarun/AMCFCN/blob/main/img/model.jpg)
+![model](https://github.com/xiaohuarun/AMCFCN/blob/main/img/model.jpg)
 
 # Environment
 

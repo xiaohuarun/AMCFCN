@@ -28,6 +28,8 @@ For example: `python train.py -mnist`
 
 # Results
 ![results](https://github.com/xiaohuarun/AMCFCN/blob/main/img/Result.PNG)
+![results](https://github.com/xiaohuarun/AMCFCN/blob/main/img/Result2.PNG)
+
 
 # Note 
 

@@ -1,6 +1,6 @@
 # AMCFCN
 
-This paper has been published in Peerj Computer Science.
+This paper has been published in [Peerj Computer Science](https://peerj.com/articles/cs-1906/).
 
 # Abstract
 
